@@ -1,0 +1,36 @@
+#footer{
+    padding-top: 30%;
+}
+#container{
+    padding-top: 10%;
+}
+#img1{
+    padding-top: 20px;
+    
+    border:5px solid #c8d6e5;
+    height:300px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:300px;
+    
+}
+#pimg{
+    margin-top: 30px;;
+}
+#cardbg{
+    height: 100pt;
+    
+    border-radius: 5px;
+}
+#card{
+    height: 500pt;
+}
+#cardbody{
+    margin-top: 250px;
+}
+.center {
+    
+    width: 250px;
+    height: auto;
+  }
